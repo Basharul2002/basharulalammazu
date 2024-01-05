@@ -3,9 +3,9 @@
 #### Technical Skills: Python, C, C++, SQL, JAVA, C#
 
 ## Education
-- SSC | Motijheel Model School & College (_2019_)								       		
-- HSC, 	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Computer Science & Engineering  | American Internation University Banglades (_Running_)
+- SSC, Science  | Motijheel Model School & College (_2019_)								       		
+- HSC, Science 	| The University of Texas at Dallas (_December 2019_)	 			        		
+- BSc, Computer Science & Engineering  | American Internation University Banglades (_Running_)
 
 ## Work Experience
 **Software Engineer @ Toyota Financial Services (_June 2022 - Present_)**
