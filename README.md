@@ -1,6 +1,16 @@
 # Software Engineer
 
-#### Technical Skills: Python, C, C++, SQL, JAVA, C#
+#### Technical Skills:
+- Programming Languages: Python, C, C++, Java, C#, SQL
+- Machine Learning Frameworks: PyTorch, TensorFlow, scikit-learn
+- Deep Learning: Neural Networks, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Generative Adversarial Networks (GAN)
+- Natural Language Processing (NLP): NLTK, spaCy, BERT, GPT
+- Computer Vision: OpenCV, Image Processing, Object Detection, Image Classification
+- Reinforcement Learning: Q-Learning, Deep Q-Networks (DQN), Policy Gradient Methods
+- Data Analysis and Visualization: Pandas, NumPy, Matplotlib, Seaborn
+- Cloud Platforms: AWS, Azure, Google Cloud Platform (GCP)
+- Version Control: Git, GitHub
+- Software Development: Agile Methodology, Software Engineering Principles
 
 ## Education
 - **SSC, Science**  
