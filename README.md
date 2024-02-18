@@ -1,17 +1,18 @@
 # Software Engineer
 
 #### Technical Skills:
-- Programming Languages: Python, C, C++, Java, C#, SQL
-- Machine Learning Frameworks: PyTorch, TensorFlow, scikit-learn
-- Deep Learning: Neural Networks, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Generative Adversarial Networks (GAN)
-- Natural Language Processing (NLP): NLTK, spaCy, BERT, GPT
-- Computer Vision: OpenCV, Image Processing, Object Detection, Image Classification
-- Reinforcement Learning: Q-Learning, Deep Q-Networks (DQN), Policy Gradient Methods
-- Data Analysis and Visualization: Pandas, NumPy, Matplotlib, Seaborn
-- Cloud Platforms: AWS, Azure, Google Cloud Platform (GCP)
-- Version Control: Git, GitHub
-- Software Development: Agile Methodology, Software Engineering Principles
+- Programming Languages: Python, C/C++, Java, C#
+- Machine Learning Frameworks: PyTorch, TensorFlow
+- Data Querying and Management: SQL
+- Development Tools: Git, Jupyter Notebook
+- Mathematics and Statistics: Linear Algebra, Probability, Statistics
+- Data Visualization: Matplotlib, Seaborn
+- Basic Understanding of Deep Learning Architectures
 
+  <br>
+  <br>
+  <br>
+  
 ## Education
 - **SSC, Science**  
   Motijheel Model School & College (_2019_)
