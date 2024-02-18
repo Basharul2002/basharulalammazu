@@ -4,26 +4,38 @@
 
 ## Education
 - SSC, Science  | Motijheel Model School & College (_2019_)								       		
-- HSC, Science 	| Ideal College, Dhanmondi (_December 2019_)	 			        		
+- HSC, Science 	| Ideal College, Dhanmondi (_December 2021_)	 			        		
 - BSc, Computer Science & Engineering  | American Internation University Banglades (_Running_)
 
 ## Work Experience
-**Software Engineer @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Senior Data Analyst @ XYZ Analytics (_January 2019 - Present_)**
+- Implemented advanced data cleansing techniques, reducing data errors by 40% and enhancing data accuracy for critical business decisions
+- Developed predictive models for customer churn, resulting in a 25% reduction in customer attrition and an increase in customer retention rate by 15%
 
-**Software Engineer @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Machine Learning Engineer @ Tech Innovations Ltd. (_May 2018 - December 2018_)**
+- Engineered a recommendation system using collaborative filtering techniques, driving a 30% increase in cross-selling revenue
+- Led the development of a fraud detection algorithm, detecting and preventing fraudulent transactions with an accuracy of over 95%
+
+**Data Scientist Intern @ Alpha Technologies (_June 2017 - August 2017_)**
+- Conducted exploratory data analysis on customer feedback data, identifying key insights to improve product usability and customer satisfaction
+- Assisted in the development of a sentiment analysis model, enabling automated analysis of customer sentiment from unstructured text data
+
+**Research Assistant @ Beta Research Institute (_January 2016 - May 2016_)**
+- Collaborated on a research project analyzing the impact of environmental factors on public health outcomes, contributing to the publication of two research papers in peer-reviewed journals
+- Utilized statistical analysis techniques to analyze survey data, providing valuable insights into population health trends and patterns
+
+**Software Development Intern @ Gamma Software Solutions (_June 2015 - August 2015_)**
+- Assisted in the development of a web-based application for inventory management, streamlining inventory tracking processes and reducing inventory discrepancies by 20%
+- Participated in code reviews and testing activities, ensuring the quality and reliability of software products before deployment
+
+
 
 ## Projects
-### Bus Ticket Management System
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
+### [Bus Ticket Management System](https://github.com/Basharul2002/VOVO)
 This project is a [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) and [SQL](https://en.wikipedia.org/wiki/SQL)-based application built on the [.NET framework](https://en.wikipedia.org/wiki/.NET_Framework) to manage a bus transportation system. It includes features for customer registration, email and phone number verification, and administrative functionalities such as registering buses, and employees (drivers, conductors, supervisors, employees), and monitoring their information.
 
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
+### [Car Selling Management System](https://github.com/Basharul2002/Prestige-Motor-Sales)
+This project is a [JAVA](https://en.wikipedia.org/wiki/Java_(programming_language)) based application to manage a car selling management system. It include feature for customer by car using verious type of payment system such like card, Mobile Banking, Nagad etc.
 
 ## Publications
