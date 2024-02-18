@@ -1,6 +1,6 @@
 # Software Engineer
 
-#### Technical Skills:
+## Technical Skills
 - Programming Languages: Python, C/C++, Java, C#
 - Machine Learning Frameworks: PyTorch, TensorFlow
 - Data Querying and Management: SQL
