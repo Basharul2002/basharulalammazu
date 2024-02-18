@@ -4,7 +4,7 @@
 
 ## Education
 - SSC, Science  | Motijheel Model School & College (_2019_)								       		
-- HSC, Science 	| The University of Texas at Dallas (_December 2019_)	 			        		
+- HSC, Science 	| Ideal College, Dhanmondi (_December 2019_)	 			        		
 - BSc, Computer Science & Engineering  | American Internation University Banglades (_Running_)
 
 ## Work Experience
