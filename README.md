@@ -3,12 +3,24 @@
 #### Technical Skills: Python, C, C++, SQL, JAVA, C#
 
 ## Education
-- SSC, Science  | Motijheel Model School & College (_2019_)								       		
-- HSC, Science 	| Ideal College, Dhanmondi (_December 2021_)	 			        		
-- BSc, Computer Science & Engineering  | American Internation University Banglades (_Running_)
-- MSc, Artificial Intelligence | MIT - Massachusetts Institute of Technology (_Future_)
-- MBA, Analytics and Management | London Business School (_Future_)
-- PhD, natural Processing Language | The University of British Columbia (_Future_)
+- **SSC, Science**  
+  Motijheel Model School & College (_2019_)
+
+- **HSC, Science**  
+  Ideal College, Dhanmondi (_2021_)
+
+- **BSc, Computer Science & Engineering**  
+  American International University Bangladesh (_Running_)
+
+- **MSc, Artificial Intelligence**  
+  MIT - Massachusetts Institute of Technology (_Future_)
+
+- **MBA, Analytics and Management**  
+  London Business School (_Future_)
+
+- **PhD, Natural Language Processing**  
+  The University of British Columbia (_Future_)
+
 
 <br>
 <br>
