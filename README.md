@@ -81,4 +81,4 @@
   <br>
 - **Traveling:** Discovering new cultures and cuisines around the world.
    <br>
-- **Hiking:** Enjoying nature and staying active
+- **Hiking:** Enjoying nature and staying active.
