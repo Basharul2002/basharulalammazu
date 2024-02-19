@@ -81,4 +81,6 @@
 ## Hobbies
 - **Reading:** Exploring books on AI ethics and philosophy.
   <br>
+- **Traveling:** Discovering new cultures and cuisines around the world.
+  <br>
 - **Hiking:** Enjoying nature and staying active.
