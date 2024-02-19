@@ -74,9 +74,11 @@
 - **Email:** basharulalam6@gmail.com  
 - **LinkedIn:** [Basharul Alam Mazu](https://www.linkedin.com/in/basharul-alam-mazu-361464267/)
 
----
+<br>
 
 ## Hobbies
 - **Reading:** Exploring books on AI ethics and philosophy.
+  <br>
 - **Traveling:** Discovering new cultures and cuisines around the world.
+   <br>
 - **Hiking:** Enjoying nature and staying active.
