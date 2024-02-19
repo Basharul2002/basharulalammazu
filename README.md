@@ -22,13 +22,13 @@
   American International University Bangladesh (_Running_)
 
 - **MSc, Artificial Intelligence**  
-  Massachusetts Institute of Technology (_2027_)
+  Massachusetts Institute of Technology (_2030_)
 
 - **MBA, Analytics and Management**  
-  London Business School (_2029_)
+  London Business School (_2032_)
 
 - **PhD, Natural Language Processing**  
-  The University of British Columbia (_2035_)
+  The University of British Columbia (_2036_)
 
 ---
 
