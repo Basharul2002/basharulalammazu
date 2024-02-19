@@ -1,4 +1,4 @@
-# AI Engineer
+# 🚀 AI Engineer
 
 ## Technical Skills
 - **Programming Languages:** Python, C/C++, Java, C#
@@ -9,7 +9,7 @@
 - **Data Visualization:** Matplotlib, Seaborn
 - **Deep Learning Architectures:** Basic Understanding
 
-<br>
+---
 
 ## Education
 - **SSC, Science**  
@@ -30,7 +30,7 @@
 - **PhD, Natural Language Processing**  
   The University of British Columbia (_2035_)
 
-<br>
+---
 
 ## Work Experience
 ### Machine Learning Engineer @ InnovateTech AI Solutions (_January 2034 - Present_)
@@ -53,7 +53,7 @@
 - Advised clients on integrating AI solutions to streamline business processes, reducing operational costs.
 - Conducted training workshops on the ethical implications of AI, ensuring responsible AI implementation.
 
-<br>
+---
 
 ## Projects
 ### [Bus Ticket Management System](https://github.com/Basharul2002/VOVO)
@@ -64,19 +64,19 @@
 - Built with Java to manage car selling operations.
 - Includes features for customer transactions using various payment systems such as card, mobile banking, and Nagad.
 
-<br>
+---
 
 ## Publications
 
-<br>
-## Contact Information
-**Email:** basharulalam6@gmail.com <br>
-**LinkedIn:** [Basharul Alam Mazu](https://www.linkedin.com/in/basharul-alam-mazu-361464267/)
+---
 
-<br>
-<br>
+## Contact Information
+- **Email:** basharulalam6@gmail.com  
+- **LinkedIn:** [Basharul Alam Mazu](https://www.linkedin.com/in/basharul-alam-mazu-361464267/)
+
+---
 
 ## Hobbies
-**Reading:** Exploring books on AI ethics and philosophy.
-**Traveling:** Discovering new cultures and cuisines around the world.
-**Hiking:** Enjoying nature and staying active.
+- **Reading:** Exploring books on AI ethics and philosophy.
+- **Traveling:** Discovering new cultures and cuisines around the world.
+- **Hiking:** Enjoying nature and staying active.
