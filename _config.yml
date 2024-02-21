@@ -1,13 +1,5 @@
-theme: hack
-
-title: Your Portfolio Title
-description: A brief description of your portfolio
-
-plugins:
-  - jekyll-seo-tag
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
+title: Basharul Alam Mazu
+logo: img/header_img.png
+#description: text below image
+show_downloads: false
+theme: jekyll-theme-minimal
