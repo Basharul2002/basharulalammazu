@@ -100,5 +100,5 @@ Enthusiastic and dedicated AI Engineer with a passion for developing innovative 
 <br>
 
 ## Extracurricular Activities
-- General Secretary, Motijheel Model School and College
-- Organizing Secretary, Ideal College, Dhanmodi
+- General Secretary, Motijheel Model Debating Club
+- Organizing Secretary, Ideal College Debating Club
