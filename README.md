@@ -3,8 +3,8 @@
 ## Objective
 Enthusiastic and dedicated AI Engineer with a passion for developing innovative solutions. Proven expertise in machine learning, deep learning, and data science. Committed to delivering high-quality results and driving advancements in artificial intelligence.
 
-/n
-/n
+<br>
+<br>
 
 ## Skills
 - **Technical Skills:**
@@ -16,7 +16,7 @@ Enthusiastic and dedicated AI Engineer with a passion for developing innovative 
   - Data Visualization: Matplotlib, Seaborn
   - Deep Learning Architectures: Basic Understanding
 
-/n
+<br>
 
 - **Soft Skills:**
   - Punctuality
@@ -30,8 +30,8 @@ Enthusiastic and dedicated AI Engineer with a passion for developing innovative 
   - Teamwork
   - Stress Management
 
-/n
-/n
+<br>
+<br>
 
 ## Education
 - **PhD, Natural Language Processing**  
@@ -52,8 +52,8 @@ Enthusiastic and dedicated AI Engineer with a passion for developing innovative 
 - **SSC, Science**  
   Motijheel Model School & College (_2019_)
 
-/n
-/n
+<br>
+<br>
 
 ## Work Experience
 ### Machine Learning Engineer @ InnovateTech AI Solutions (_January 2034 - Present_)
@@ -76,8 +76,8 @@ Enthusiastic and dedicated AI Engineer with a passion for developing innovative 
 - Advised clients on integrating AI solutions to streamline business processes, reducing operational costs.
 - Conducted training workshops on the ethical implications of AI, ensuring responsible AI implementation.
 
-/n
-/n
+<br>
+<br>
 
 ## Certifications
 - Include certifications here.
@@ -91,19 +91,22 @@ Enthusiastic and dedicated AI Engineer with a passion for developing innovative 
 - Built with Java to manage car selling operations.
 - Includes features for customer transactions using various payment systems such as card, mobile banking, and Nagad.
 
-/n
-/n
+<br>
+<br>
 
 ## Publications
 - Include publications here.
   
-/n
-/n
+<br>
+<br>
 
 ## Contact Information
 - **Email:** [basharulalam6@gmail.com](mailto:basharulalam6@gmail.com)
 - **LinkedIn:** [Basharul Alam Mazu](https://www.linkedin.com/in/basharul-alam-mazu-361464267/)
 - **WhatsApp:** [Contact Me](https://wa.me/+8801813890622)
+
+<br>
+<br>
 
 ## Extracurricular Activities
 - General Secretary, Motijheel Model School and College
