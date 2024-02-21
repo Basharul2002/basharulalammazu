@@ -102,3 +102,7 @@ Enthusiastic and dedicated AI Engineer with a passion for developing innovative 
 ## Extracurricular Activities
 - General Secretary, Motijheel Model Debating Club
 - Organizing Secretary, Ideal College Debating Club
+
+## Download CV
+[Download CV](CV/Portfolio.pdf)
+
