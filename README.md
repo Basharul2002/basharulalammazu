@@ -3,6 +3,9 @@
 ## Objective
 Enthusiastic and dedicated AI Engineer with a passion for developing innovative solutions. Proven expertise in machine learning, deep learning, and data science. Committed to delivering high-quality results and driving advancements in artificial intelligence.
 
+/n
+/n
+
 ## Skills
 - **Technical Skills:**
   - Programming Languages: Python, C/C++, Java, C#
@@ -12,6 +15,8 @@ Enthusiastic and dedicated AI Engineer with a passion for developing innovative 
   - Mathematics and Statistics: Linear Algebra, Probability, Statistics
   - Data Visualization: Matplotlib, Seaborn
   - Deep Learning Architectures: Basic Understanding
+
+/n
 
 - **Soft Skills:**
   - Punctuality
@@ -25,6 +30,8 @@ Enthusiastic and dedicated AI Engineer with a passion for developing innovative 
   - Teamwork
   - Stress Management
 
+/n
+/n
 
 ## Education
 - **PhD, Natural Language Processing**  
@@ -44,6 +51,9 @@ Enthusiastic and dedicated AI Engineer with a passion for developing innovative 
 
 - **SSC, Science**  
   Motijheel Model School & College (_2019_)
+
+/n
+/n
 
 ## Work Experience
 ### Machine Learning Engineer @ InnovateTech AI Solutions (_January 2034 - Present_)
@@ -66,8 +76,11 @@ Enthusiastic and dedicated AI Engineer with a passion for developing innovative 
 - Advised clients on integrating AI solutions to streamline business processes, reducing operational costs.
 - Conducted training workshops on the ethical implications of AI, ensuring responsible AI implementation.
 
+/n
+/n
+
 ## Certifications
-- Include relevant certifications here.
+- Include certifications here.
 
 ## Projects
 ### [Bus Ticket Management System](https://github.com/Basharul2002/VOVO)
@@ -78,8 +91,14 @@ Enthusiastic and dedicated AI Engineer with a passion for developing innovative 
 - Built with Java to manage car selling operations.
 - Includes features for customer transactions using various payment systems such as card, mobile banking, and Nagad.
 
+/n
+/n
+
 ## Publications
-- Include any publications here.
+- Include publications here.
+  
+/n
+/n
 
 ## Contact Information
 - **Email:** [basharulalam6@gmail.com](mailto:basharulalam6@gmail.com)
