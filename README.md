@@ -14,11 +14,16 @@ Enthusiastic and dedicated AI Engineer with a passion for developing innovative 
   - Deep Learning Architectures: Basic Understanding
 
 - **Soft Skills:**
-  - Punctuality          - Time Management
-  - Organization         - Attention to Detail
-  - Reliability          - Adaptability
-  - Problem-Solving      - Communication
-  - Teamwork             - Stress Management
+  - Punctuality
+  - Time Management
+  - Organization
+  - Attention to Detail
+  - Reliability
+  - Adaptability
+  - Problem-Solving
+  - Communication
+  - Teamwork
+  - Stress Management
 
 
 ## Education
