@@ -4,7 +4,6 @@
 Enthusiastic and dedicated AI Engineer with a passion for developing innovative solutions. Proven expertise in machine learning, deep learning, and data science. Committed to delivering high-quality results and driving advancements in artificial intelligence.
 
 <br>
-<br>
 
 ## Skills
 - **Technical Skills:**
@@ -15,8 +14,6 @@ Enthusiastic and dedicated AI Engineer with a passion for developing innovative 
   - Mathematics and Statistics: Linear Algebra, Probability, Statistics
   - Data Visualization: Matplotlib, Seaborn
   - Deep Learning Architectures: Basic Understanding
-
-<br>
 
 - **Soft Skills:**
   - Punctuality
@@ -30,7 +27,6 @@ Enthusiastic and dedicated AI Engineer with a passion for developing innovative 
   - Teamwork
   - Stress Management
 
-<br>
 <br>
 
 ## Education
@@ -52,7 +48,6 @@ Enthusiastic and dedicated AI Engineer with a passion for developing innovative 
 - **SSC, Science**  
   Motijheel Model School & College (_2019_)
 
-<br>
 <br>
 
 ## Work Experience
@@ -77,7 +72,6 @@ Enthusiastic and dedicated AI Engineer with a passion for developing innovative 
 - Conducted training workshops on the ethical implications of AI, ensuring responsible AI implementation.
 
 <br>
-<br>
 
 ## Certifications
 - Include certifications here.
@@ -92,12 +86,10 @@ Enthusiastic and dedicated AI Engineer with a passion for developing innovative 
 - Includes features for customer transactions using various payment systems such as card, mobile banking, and Nagad.
 
 <br>
-<br>
 
 ## Publications
 - Include publications here.
   
-<br>
 <br>
 
 ## Contact Information
@@ -105,7 +97,6 @@ Enthusiastic and dedicated AI Engineer with a passion for developing innovative 
 - **LinkedIn:** [Basharul Alam Mazu](https://www.linkedin.com/in/basharul-alam-mazu-361464267/)
 - **WhatsApp:** [Contact Me](https://wa.me/+8801813890622)
 
-<br>
 <br>
 
 ## Extracurricular Activities
